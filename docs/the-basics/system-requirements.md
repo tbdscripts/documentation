@@ -20,7 +20,7 @@ If you are using services such as a VPS or a dedicated server, or if you are hos
 
 ## Our Recommended Hosting Provider
 
-![Hexane Networks (Use Code COSMO for 25% off at checkout)](../../static/img/hexane-promo.png)
+[![Hexane Networks (Use Code COSMO for 25% off at checkout)](../../static/img/hexane-promo.png)](https://billing.hexanenetworks.com/aff.php?aff=358)
 
 ## Nginx Basic Configuration
 
