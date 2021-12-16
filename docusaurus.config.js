@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'TbdScripts',
+  title: 'TBD Scripts',
   tagline: 'Morgan sucks',
   url: 'https://docs.tbdscripts.com',
   baseUrl: '/',
@@ -69,7 +69,7 @@ const config = {
             ],
           },
         ],
-        copyright: `TbdScripts © ${new Date().getFullYear()}`,
+        copyright: `TBD Scripts © ${new Date().getFullYear()}`,
       },
       prism: {
         theme: lightCodeTheme,
