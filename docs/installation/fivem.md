@@ -22,7 +22,7 @@ The only supported action type is `Console Command`!
 * Configure the configuration file found in the `config` folder
 
 :::info
-Your server token can be found in the **Management Panel** under **Components -> Server**
+Your server token can be found in the **Management Panel** under **Components -> Server**.
 Click on the **Edit** button of the corresponding server and click **Regenerate Token**
 :::
 * Ensure the FiveM resource (and restart your server)

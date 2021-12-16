@@ -16,7 +16,7 @@ Cosmo supports Garry's Mod for the automated store. You can use it by installing
 * Update `Cosmo.Config.ServerToken` to match your server token
 
 :::info
-Your server token can be found in the **Management Panel** under **Components -> Server**
+Your server token can be found in the **Management Panel** under **Components -> Server**.
 Click on the **Edit** button of the corresponding server and click **Regenerate Token**
 :::
 * Update any other configuration values if you wish
