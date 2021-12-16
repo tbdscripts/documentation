@@ -11,7 +11,7 @@ This integration is still in beta, we have not had people test it thoroughly.
 If you have tested it, please let us know your feedback through the Discord.
 :::
 
-:::warning
+:::caution
 The only supported action type is `Console Command`!
 :::
 
