@@ -79,7 +79,7 @@ There are a few steps that you'll need to complete in order to get those directo
 
 ***
 
-### My Steam API Key is Invalid!
+### My Steam API Key is invalid!
 
 Please make sure that you have a valid [Steam API Key](https://steamcommunity.com/dev/apikey)
 
