@@ -23,14 +23,14 @@ Click on the **Edit** button of the corresponding server and click **Regenerate 
 * Restart your server
 
 ## Supported Action Types
-[x] Console Command
-[x] Usergroup
-[x] Custom Lua
-[x] DarkRP Money
-[x] DarkRP Levels
-[x] (Permanent) Weapons
-[x] Pointshop 1 points
-[x] Pointshop 2 standard and premium points
+* Console Command
+* Usergroup
+* Custom Lua
+* DarkRP Money
+* DarkRP Levels
+* (Permanent) Weapons
+* Pointshop 1 points
+* Pointshop 2 standard and premium points
 
 ## Turning on debug mode
 If staff requested you to turn on debug mode for support, please follow these steps.
