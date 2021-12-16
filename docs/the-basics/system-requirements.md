@@ -5,7 +5,7 @@ title: System Requirements
 
 # 💻 System Requirements
 
-:::danger
+:::caution
 If you are using services such as a VPS or a dedicated server, or if you are hosting a webserver yourself, you are expected to know how these types of services work. No support will be given with setting these up.
 :::
 

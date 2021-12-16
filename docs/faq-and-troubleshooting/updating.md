@@ -9,8 +9,6 @@ title: Updating
 
 We will need you to create an API key for Cosmo so we can download the addon and update it automatically for you.
 
-
-
 ![Image taken from morgan-lee.cc/images](https://cdn.morgan-lee.cc/storage/0utwi)
 
 1. Head Over to [https://gmodstore.com](https://gmodstore.com).
