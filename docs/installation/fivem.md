@@ -20,6 +20,7 @@ The only supported action type is `Console Command`!
 * Download the .zip file from the page, it should be named `<version>.zip`
 * Extract the .zip file and place it in your FiveM server's resources folder
 * Configure the configuration file found in the `config` folder
+
 :::info
 Your server token can be found in the **Management Panel** under **Components -> Server**
 Click on the **Edit** button of the corresponding server and click **Regenerate Token**
