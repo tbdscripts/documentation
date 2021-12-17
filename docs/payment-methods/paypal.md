@@ -35,10 +35,9 @@ title: PayPal
 Click "Add Webhook"
 
 
-
-{% hint style="info" %}
+:::info
 Please pay very close attention to the following step, as not following it correctly will lead to issues and or errors.
-{% endhint %}
+:::
 
 ![Image taken from morgan-lee.cc/images](https://cdn.morgan-lee.cc/storage/74qnk)
 
