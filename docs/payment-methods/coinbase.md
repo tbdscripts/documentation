@@ -1,8 +1,6 @@
 ---
 id: coinbase
-title: Coinbase
+title: 🪙 Coinbase
 ---
-
-# 🪙 Coinbase
 
 Docs Coming Soon.

@@ -1,9 +1,8 @@
 ---
 id: fivem
-title: FiveM
+title: 🏙️ FiveM
 ---
 
-# 🏙️ Cosmo - FiveM
 Cosmo supports FiveM for the automated store. You can use it by installing the official FiveM resource for Cosmo.
 
 :::info

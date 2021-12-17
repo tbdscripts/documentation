@@ -1,9 +1,8 @@
 ---
 id: garrys-mod
-title: Garry's Mod
+title: 🔫 Garry's Mod
 ---
 
-# 🔫 Cosmo - Garry's Mod
 Cosmo supports Garry's Mod for the automated store. You can use it by installing the official Garry's Mod addon for Cosmo.
 
 ## Installing the integration

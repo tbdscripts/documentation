@@ -1,9 +1,7 @@
 ---
 id: paypal
-title: PayPal
+title: 💵 PayPal
 ---
-
-# 💵 PayPal
 
 #### PayPal Configuration
 

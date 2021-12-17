@@ -1,9 +1,6 @@
 ---
 id: stripe
-title: Stripe
+title: 💳 Stripe
 ---
-
-
-# 💳 Stripe
 
 Docs Coming

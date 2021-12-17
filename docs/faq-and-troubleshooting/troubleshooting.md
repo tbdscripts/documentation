@@ -1,9 +1,7 @@
 ---
 id: troubleshooting
-title: Troubleshooting
+title: ⚠️ Troubleshooting
 ---
-
-# ⁉ Troubleshooting
 
 All issues we think you could run into are laid out below with the necessary steps to resolve the issue.
 
