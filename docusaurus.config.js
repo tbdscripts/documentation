@@ -9,7 +9,7 @@ const config = {
   title: 'TBD Scripts',
   tagline: 'Morgan sucks',
   url: 'https://docs.tbdscripts.com',
-  baseUrl: '/',
+  baseUrl: '/docs',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
