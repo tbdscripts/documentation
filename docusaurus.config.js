@@ -75,7 +75,7 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
         
-      additionalLanguages: ['php', 'lua', 'cs'],
+      additionalLanguages: ['php', 'lua'],
       },
     }),
 };
