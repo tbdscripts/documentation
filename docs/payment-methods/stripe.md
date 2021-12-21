@@ -13,7 +13,7 @@ Setting up Stripe is fairly easy, and only involves a couple steps.
 ### Stripe Dashboard Setup
 :::info
 We will not be giving help with setting up your account. This includes signing up, activating your account, etc.
-On the other hand, we do ofcourse give support with failing webhooks and packages not being delivered.
+On the other hand, we do of course give support with failing webhooks and packages not being delivered.
 :::
 
 * Head over to the [Stripe Dashboard](https://dashboard.stripe.com)
@@ -28,15 +28,15 @@ On the other hand, we do ofcourse give support with failing webhooks and package
 * Head to the `Webhooks` tab
 * Click `Add endpoint` on the top right of the page
     * As Endpoint URL you will use `your domain + /api/stripe` so for example `https://demo.tbdscripts.com/api/stripe` **THIS IS A VITAL PART**
-    * If you wish you can add a description, it's optional however
+    * If you wish you can add a description, however it's optional
     * Leave the version as default
     * As for the events, you'd want to select these: `checkout.session.completed` and `charge.dispute.created`
     * Create the endpoint by clicking `Add endpoint`
-* Click on the webhook/endpoint you've just created, it will take you to its details
+* Click on the webhook/endpoint you've just created, and it will take you to its details
     * Reveal the signing secret and copy it to a place where you can retrieve it later.
 
 You've now gotten all the details you need from the Stripe Dashboard.
-If you wish you can take a look around the dashboard, it has quite some nice statistics which you can later use to track payments, monthly revenue, etc.
+If you wish you can take a look around the dashboard, it has some nice statistics which you can later use to track payments, monthly revenue, etc.
 But for now let's get it setup into Cosmo!
 
 ### Cosmo Setup
