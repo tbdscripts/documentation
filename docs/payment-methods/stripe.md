@@ -16,6 +16,10 @@ We will not be giving help with setting up your account. This includes signing u
 On the other hand, we do of course give support with failing webhooks and packages not being delivered.
 :::
 
+:::caution
+The API keys and webooks are different between Live and Test mode, be aware of this when switching from Test -> Live mode or the other way around.
+:::
+
 * Head over to the [Stripe Dashboard](https://dashboard.stripe.com)
 * Log in or create an account
 * Stripe will prompt you to make a merchant account, if you do not already have one
