@@ -22,7 +22,7 @@ If you are using services such as a VPS or a dedicated server, or if you are hos
 
 ## Nginx Basic Configuration
 
-_If you are not self-hosting cosmo you can skip this part._
+If you are not self-hosting cosmo you can skip this part.
 
 ```nginx
 server {

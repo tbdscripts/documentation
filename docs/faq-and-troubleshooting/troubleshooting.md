@@ -87,5 +87,5 @@ You can replace your old Steam API Key by following the steps outlined below:
 2. Go into the configurations table.
 3. Look for a column with the name `steam_api_key`.
 4. Change the value of the column to your new Steam API Key.
-5. Go into your files for cosmo and delete the data folder in storage/framework/cache.
+5. Go into your files for cosmo and delete the data folder in `storage/framework/cache`.
 6. You should now be able to login.

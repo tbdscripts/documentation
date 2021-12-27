@@ -74,6 +74,8 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+        
+      additionalLanguages: ['php', 'lua'],
       },
     }),
 };
