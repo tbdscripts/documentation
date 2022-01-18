@@ -1,9 +1,7 @@
 ---
 id: updating
-title: Updating
+title: 📜 Updating
 ---
-
-# 📜 Updating
 
 ## GmodStore API Key
 

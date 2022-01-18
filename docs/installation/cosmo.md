@@ -1,9 +1,7 @@
 ---
 id: cosmo
-title: Cosmo
+title: 🌐 Website
 ---
-
-# 📁 Cosmo - Web
 
 ## Are you more of a visual learner?
 

@@ -1,9 +1,7 @@
 ---
 id: general-faq
-title: General FAQ
+title: 💬 General FAQ
 ---
-
-# 🙋♂ General FAQ's
 
 All general Documentation for configuration not mentioned in other sections
 

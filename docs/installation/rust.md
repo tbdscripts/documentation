@@ -1,9 +1,8 @@
 ---
 id: rust
-title: Rust
+title: 🪨 Rust
 ---
 
-# 🪨 Cosmo - Rust
 Cosmo supports Rust for the automated store. You can use it by installing the official Rust plugin for Cosmo.
 
 :::caution
