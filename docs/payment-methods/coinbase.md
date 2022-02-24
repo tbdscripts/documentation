@@ -1,9 +1,7 @@
 ---
 id: coinbase
-title: Coinbase
+title: 🪙 Coinbase
 ---
-
-# 🪙 Coinbase
 
 [Coinbase](https://www.coinbase.com/) is a crypto trading platform, it allows you to buy/sell/trade your crypto. Cosmo has an integration with it, it allows people to purchase packages from your store with crypto. 
 

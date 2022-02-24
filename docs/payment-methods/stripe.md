@@ -1,9 +1,7 @@
 ---
 id: stripe
-title: Stripe
+title: 💳 Stripe
 ---
-
-# 💳 Stripe
 
 Cosmo supports [Stripe](https://stripe.com) as a payment method. While we don't promote it as our primary payment method, we highly recommend using it over PayPal. The setup is similar to PayPal's but involves a few different steps. Let's get at it!
 
