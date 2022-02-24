@@ -35,5 +35,5 @@ Click on the **Edit** button of the corresponding server and click **Regenerate 
 If staff requested you to turn on debug mode for support, please follow these steps.
 
 * Go into `lua/cosmo` and edit the `sh_config.lua` file
-* Set `Cosmo.Config.LogLevel` to `Cosmo.Log.LEVEL_DEBUG`
+* Change `Cosmo.Config.LogLevel` to `Cosmo.Config.LogLevel = Cosmo.Log.LEVEL_DEBUG`
 * Restart your server
