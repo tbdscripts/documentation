@@ -11,6 +11,18 @@ All general Documentation for configuration not mentioned in other sections
 
 You can find all of the Font Awesome icons [here](https://fontawesome.com/icons?d=gallery), Because we are awesome, you have access to all of the icons even including the PRO versions.
 
+### How do I change the language?
+
+To change the default language used by Cosmo, Please follow the outlined steps below:
+
+- Check to see if your language is supported by Cosmo,
+- Head into `config/app.php`
+- You will find a `'locale'` Key, all you need to do is change the value associated with this key.
+
+Your new value should look similar to this
+
+`'locale' => 'fr',`  -- This is for a french default language
+
 ### How do I change the favicon? <a href="#8037fc9f-eb0d-4adc-989a-aadfdd3df29a" id="8037fc9f-eb0d-4adc-989a-aadfdd3df29a"></a>
 
 Favicon is the little image located next to the title on the browser tab.
