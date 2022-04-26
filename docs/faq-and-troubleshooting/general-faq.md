@@ -35,3 +35,21 @@ The image has to be:
 
 * The same name (logo.png)
 * 32px X 32px.
+
+### How do I fix my other directories?
+
+There are a few steps that you'll need to complete in order to get those directories to work again. It's very easy and will only take a few seconds.
+
+Steps:
+- Navigate to the directory that is not visible.
+
+- Create a file within the directory called .htaccess.
+
+- Open the file and paste the following code within the new file `RewriteEngine off`
+
+- Save the file.
+
+- Your directory should now be working.
+
+
+**YOU WILL HAVE TO REPEAT STEPS 1-4 FOR EVERY DIRECTORY THAT IS NOT WORKING.**
