@@ -53,3 +53,9 @@ Steps:
 
 
 **YOU WILL HAVE TO REPEAT STEPS 1-4 FOR EVERY DIRECTORY THAT IS NOT WORKING.**
+
+### How do I change the forum post character limit?
+
+1. Go to the management panel
+2. Go to settings -> Click on "Forums"
+3. Change the limit there 
