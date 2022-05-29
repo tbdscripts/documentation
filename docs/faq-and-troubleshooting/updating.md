@@ -16,7 +16,7 @@ We will need you to create an API key for Cosmo so we can download the addon and
 
 ![Image taken by lythium](../../static/img/updating/gms-accesstoken-create.png)
 
-3. Check the "Products" checkbox
+3. Check the "Products" and the "Product-Versions" checkbox
 4. Copy your access token provided to you
 
 ![Image taken by lythium](../../static/img/updating/gms-accesstoken-copy.png)
